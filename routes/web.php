@@ -35,5 +35,5 @@ Route::get('/users', function(){
 });
 
 Route::get('/admin', function(){
-    return 'Admin'
+    return 'Admin';
 });
